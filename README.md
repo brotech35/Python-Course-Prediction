@@ -1,8 +1,7 @@
 # Student Performance Prediction Project
 
 ### Deployed App Link
-(Add your Streamlit Cloud link here after deployment!)
-
+(https://python-course-pred.streamlit.app/)
 ***
 ## Student Performance Prediction – End-to-End Data Science Project
 
